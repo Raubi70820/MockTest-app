@@ -1,16 +1,26 @@
 # test_dart
 
-A new Flutter project.
+Key Features:
+✅ User Authentication:
 
-## Getting Started
+Secure login and signup using Firebase Authentication (Email/Password).
+User session management to ensure a seamless experience.
+✅ Multiple Subject Mock Tests:
 
-This project is a starting point for a Flutter application.
+A wide range of subject-specific mock tests to help users practice.
+Questions are dynamically fetched from Firebase Firestore.
+Timer-based quizzes to simulate real exam conditions.
+Instant scoring and performance tracking.
+✅ Lesson Section:
 
-A few resources to get you started if this is your first Flutter project:
+Users can access study materials for various subjects.C:\flutter project\Testapp\test_dart\lib
+Content is stored and managed using Firebase Firestore.
+Interactive learning experience with structured lessons.
+✅ User-Friendly Interface:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clean and intuitive UI with easy navigation.
+Optimized for both Android and iOS.
+Tech Stack:
+Flutter – Frontend UI & App Development
+Firebase Firestore – Database for storing mock test questions and lesson content
+Firebase Authentication – Secure user authentication system
